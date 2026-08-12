@@ -1,4 +1,4 @@
-const CACHE = 'jtj-lisbon-v12';
+const CACHE = 'jtj-lisbon-v14';
 const ASSETS = ['./', './index.html', './app.dat', './manifest.webmanifest',
                 './icon-192.png', './icon-512.png', './icon-180.png'];
 
